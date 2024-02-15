@@ -1,0 +1,37 @@
+.body {
+  background-color: aqua;
+}
+
+p {
+  color: pink;
+}
+
+.text-center {
+  color: pink;
+}
+
+.navbar {
+  background-color: pink;
+}
+
+img {
+  border-radius: 30px;
+  max-width: 250px;
+  margin-right: 20px;
+  margin-left: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+table,
+td {
+  border: 1px solid pink;
+}
+
+.unordered{
+    color: pink;
+}
+
+.ordered{
+    color: pink;
+}
